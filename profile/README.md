@@ -6,6 +6,8 @@ Hi there!
 
 Cool.
 
+[![You think you're cooler than me?](https://img.youtube.com/vi/mqWq_48LxWQ/0.jpg)](https://www.youtube.com/watch?v=mqWq_48LxWQ)
+
 **Samuel Borms**
 
 Cooler.
