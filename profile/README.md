@@ -12,7 +12,7 @@ The coolest data scientist in Belgium and surroundings. Take a stroll around his
 
 :musical_note: **Nabil Bouamara**
 
-The coolest financial econometrician on earth. Have a look at this [website](https://nblbmra.github.io/).
+The coolest financial econometrician on earth. Have a look at his [website](https://nblbmra.github.io/).
 
 :star: **Brecht Verbeken**
 
